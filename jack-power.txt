@@ -1,3 +1,5 @@
 Hello World! 
 
 This is a test file for Git for Web Development Project!
+
+Project is finished, ready for submission.
